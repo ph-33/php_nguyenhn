@@ -1,4 +1,5 @@
- <?php  include('../view/header.php');
+ <?php  
+  include('../view/header.php');
 		require_once('../model/db.php');
  		require_once('../model/product.php');
   /* $category = get_category($categoryID);
