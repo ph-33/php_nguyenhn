@@ -1,12 +1,27 @@
+<?php 
+require 'controller/account_controller.php';
+require_once('model/database.php');
+require_once('model/account.php');
+require_once('model/account_db.php');
+session_start();
+$action = 'index';
+$accountController = new Account_controller();
+if (isset($_REQUEST['action']) && $_REQUEST['action'] !== '') {
+    $action = $_REQUEST['action'];
+}
 
-    <?php include 'view/header.php'; ?>
-    <main>
-        <h1>Menu</h1>
-        <ul>
-            <li>
-                <a href="controller/account_controller.php">ATM Manager</a>
-            </li>
-            
-        </ul>
-    </main>
-    <?php include 'view/footer.php'; ?>
+if ($action === 'index') {
+    $accountController->index();
+} else if ($action === 'login') {
+    $accountController->login();
+} 
+elseif ($action === 'viewaccount') {
+    $accountController->viewaccount();
+}elseif ($action === 'logout') {
+    $accountController->logout();
+}
+ else 
+{
+    $accountController->index();
+}
+?>

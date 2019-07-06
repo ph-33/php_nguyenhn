@@ -17,6 +17,10 @@
     {
         $userController->delete();
     }
+    else if ($action === 'viewedit')
+    {
+        $userController->viewedit();
+    }
     else if ($action === 'edit')
     {
         $userController->edit();

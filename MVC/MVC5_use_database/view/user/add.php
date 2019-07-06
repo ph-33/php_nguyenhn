@@ -1,7 +1,7 @@
-<?php include '../header.php';?>
+<?php include 'view/layouts/header.php';?>
     <main>
         <h1>Add User</h1>
-        <form action="../../controller/user_controller.php" method="post" id="add_customer_form">
+        <form action="index.php" method="post" id="add_customer_form">
             <input type="hidden" name="action" value="add" />
 
             <label>Email Address:</label>
@@ -20,6 +20,5 @@
             <input type="submit" value="Add Customer">
             <br>
         </form>
-        <p><a href="../../controller/user_controller.php?action=index">View customer List</a></p>
     </main>
- <?php include '../footer.php';?>
+ <?php include 'view/layouts/footer.php';?>

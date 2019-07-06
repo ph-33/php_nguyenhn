@@ -53,11 +53,11 @@
             $statement->execute();
             $statement->closeCursor();
         }
-        public static function searchUser($firstname) {
+        public static function searchUser($search) {
             $db = Database::getDB();
-            $query = 'SELECT * FROM users WHERE FirstName LIKE :firstname OR Email LIKE :firstname OR LastName LIKE :firstname';
+            $query = 'SELECT * FROM users WHERE FirstName LIKE :search OR Email LIKE :search OR LastName LIKE :search';
             $statement = $db->prepare($query);
-            $statement->bindValue(':firstname', '%'.$firstname.'%');
+            $statement->bindValue(':search', '%'.$search.'%');
             $statement->execute();
             $users = array();
             foreach ($statement as $row) {

@@ -4,8 +4,6 @@
         private $email;
         private $firstname;
         private $lastname;
-
-
         public function __construct($email, $firstname,$lastname) {
                 $this->email = $email;
                 $this->firstname = $firstname;

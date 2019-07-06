@@ -1,12 +1,40 @@
+<?php
+    require_once ('controller/user_controller.php');
+    require_once('model/database.php');
+    require_once('model/user.php');
+    require_once('model/user_db.php');
+    session_start();
 
-    <?php include 'view/header.php'; ?>
-    <main>
-        <h1>Menu</h1>
-        <ul>
-            <li>
-                <a href="controller/user_controller.php">Email Manager</a>
-            </li>
-            
-        </ul>
-    </main>
-    <?php include 'view/footer.php'; ?>
+    $action = 'index';
+    $userController = new UserController();
+    if (isset($_REQUEST['action']) && $_REQUEST['action'] !== '') {
+        $action = $_REQUEST['action'];
+    }
+    if ($action === 'index') {
+        $userController->index();
+    }
+    else if ($action === 'delete')
+    {
+        $userController->delete();
+    }
+    else if ($action === 'viewedit')
+    {
+        $userController->viewedit();
+    }
+    else if ($action === 'edit')
+    {
+        $userController->edit();
+    }
+     else if ($action === 'search')
+    {
+        $userController->search();
+    }
+    else if ($action === 'viewadd')
+    {
+        $userController->viewadd();
+    }
+    else if ($action === 'add')
+    {
+        $userController->add();
+    }
+?>
