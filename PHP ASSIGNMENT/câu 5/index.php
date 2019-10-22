@@ -14,7 +14,7 @@
 		}
 		echo 'tổng của 50 số nguyên dương đầu tiên là :'.$sum;
 	 ?>
-	 <?php echo "haong nguyen"; ?>
+	 <?php echo "haong"; ?>
 	 
 </body>
 </html>
