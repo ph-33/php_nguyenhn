@@ -12,7 +12,7 @@
 		{
 			$sum += $i;
 		}
-		echo 'tổng của 50 số nguyên dương đầu tiên là :'.$sum;
+		echo 'tổng của 50 số nguyên dương đầulà :'.$sum;
 	 ?>
 	 
 </body>
