@@ -12,9 +12,9 @@
 		{
 			$sum += $i;
 		}
-		echo 't :'.$sum;
+		echo 'tổng của 0 số  :'.$sum;
+		echo"daf";
 	 ?>
-	 <?php echo "hoa ng"; ?>
 	 
 </body>
 </html>
