@@ -14,10 +14,11 @@
 			 {
 			 echo '*';
 			}
-			echo '<br>';
+			
 		}
 		
 	 ?>
+	 <h1>Something and something</h1>
 	 
 </body>
 </html>

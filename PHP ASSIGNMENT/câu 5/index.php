@@ -14,6 +14,7 @@
 		}
 		echo 'tổng của 50 số nguyên dương đ :'.$sum;
 	 ?>
+	 <?php echo "1+2+3"; ?>
 	 
 </body>
 </html>
