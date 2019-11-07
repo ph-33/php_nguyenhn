@@ -12,9 +12,9 @@
 		{
 			$sum += $i;
 		}
-		echo 'g của 50 số ng :'.$sum;
+		echo 'g :'.$sum;
 	 ?>
-	 <?php echo "3"; ?>
+	 <?php echo ""; ?>
 	 
 </body>
 </html>
