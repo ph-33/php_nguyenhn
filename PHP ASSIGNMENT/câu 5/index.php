@@ -14,7 +14,7 @@
 		}
 		echo 'tổng c 50gi ng :'.$sum;
 	 ?>
-	 <?php echo "3"; ?>
+	 <?php echo ""; ?>
 	 
 </body>
 </html>
