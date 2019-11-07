@@ -12,7 +12,7 @@
 		{
 			$sum += $i;
 		}
-		echo 'tổng của 50 số  :'.$sum;
+		echo ' của 50 số  :'.$sum;
 		echo"daf";
 	 ?>
 	 
