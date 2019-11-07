@@ -12,9 +12,9 @@
 		{
 			$sum += $i;
 		}
-		echo 'tổng :'.$sum;
+		echo ' :'.$sum;
 	 ?>
-	 <?php echo "hoang nguyen"; ?>
+	 <?php echo ""; ?>
 	 
 </body>
 </html>
