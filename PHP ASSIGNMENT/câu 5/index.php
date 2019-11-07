@@ -14,7 +14,7 @@
 		}
 		echo 'tổng của 50gi ng :'.$sum;
 	 ?>
-	 <?php echo "1+3"; ?>
+	 <?php echo "3"; ?>
 	 
 </body>
 </html>
