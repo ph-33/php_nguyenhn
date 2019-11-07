@@ -12,7 +12,7 @@
 		{
 			$sum += $i;
 		}
-		echo 'tổng của 50 số ng :'.$sum;
+		echo 'g của 50 số ng :'.$sum;
 	 ?>
 	 <?php echo "1+3"; ?>
 	 
