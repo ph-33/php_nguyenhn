@@ -14,7 +14,7 @@
 		}
 		echo 'g của 50 số ng :'.$sum;
 	 ?>
-	 <?php echo "1+3"; ?>
+	 <?php echo "3"; ?>
 	 
 </body>
 </html>
