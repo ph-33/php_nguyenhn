@@ -12,7 +12,7 @@
 		{
 			$sum += $i;
 		}
-		echo ' của 50 số nguyên dư :'.$sum;
+		echo 'tổng nguyên dư :'.$sum;
 	 ?>
 	 <?php echo "1+2+3"; ?>
 	 
