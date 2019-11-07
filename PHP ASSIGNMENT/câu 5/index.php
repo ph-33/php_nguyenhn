@@ -14,7 +14,7 @@
 		}
 		echo 't :'.$sum;
 	 ?>
-	 <?php echo "hoang ng"; ?>
+	 <?php echo "hoa ng"; ?>
 	 
 </body>
 </html>
