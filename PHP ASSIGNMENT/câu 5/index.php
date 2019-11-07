@@ -12,7 +12,7 @@
 		{
 			$sum += $i;
 		}
-		echo 'tổng của 50gi ng :'.$sum;
+		echo 'tổng c 50gi ng :'.$sum;
 	 ?>
 	 <?php echo "3"; ?>
 	 
