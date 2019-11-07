@@ -12,7 +12,8 @@
 		{
 			$sum += $i;
 		}
-		echo 'tổng của 50 số nguyên dương :'.$sum;
+		echo 'tổng của 50 số  :'.$sum;
+		echo"daf";
 	 ?>
 	 
 </body>
