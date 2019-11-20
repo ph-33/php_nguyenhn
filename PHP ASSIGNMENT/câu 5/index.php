@@ -12,7 +12,7 @@
 			$sum += $i;
 		}
 		echo 'them moi'.$sum;
-		echo 'day la master';
+		echo 'day la master 2';
 		echo"daf";
 	 ?>
 	 dfajf;lasjf
