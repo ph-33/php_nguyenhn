@@ -5,7 +5,6 @@
 	<title>Document</title>
 </head>
 <body>
-	ngn
 	<?php 
 		$sum = 0;
 		for($i = 0 ; $i <= 50 ; $i++)
@@ -15,6 +14,7 @@
 		echo 'them moi'.$sum;
 		echo"daf";
 	 ?>
+	 dfajf;lasjf
 	 them2
 </body>
 </html>
