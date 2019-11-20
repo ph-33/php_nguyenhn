@@ -15,6 +15,7 @@
 		echo 'them moi'.$sum;
 		echo"daf";
 	 ?>
+	 dfajf;lasjf
 	 them2
 </body>
 </html>
