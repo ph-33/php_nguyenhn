@@ -15,6 +15,6 @@
 		echo 'tổng củd s    :'.$sum;
 		echo"daf";
 	 ?>
-	 
+	 them2
 </body>
 </html>
