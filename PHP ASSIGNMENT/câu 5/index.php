@@ -12,7 +12,7 @@
 		{
 			$sum += $i;
 		}
-		echo ''.$sum;
+		echo 'them moi'.$sum;
 		echo"daf";
 	 ?>
 	 
