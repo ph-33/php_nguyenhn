@@ -13,6 +13,7 @@
 		}
 		echo 'them moi'.$sum;
 		echo 'day la master 2';
+	dam
 		echo"daf";
 	 ?>
 	 dfajf;lasjf
