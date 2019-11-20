@@ -5,7 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	nhanh 2
+	anh 2
 	<?php 
 		$sum = 0;
 		for($i = 0 ; $i <= 50 ; $i++)
