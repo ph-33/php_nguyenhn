@@ -11,8 +11,7 @@
 		{
 			$sum += $i;
 		}
-		echo 'them moi'.$sum;
-		echo 'day la master 2';
+		
 	dam fdsafasf
 		echo"daf";
 	 ?>
