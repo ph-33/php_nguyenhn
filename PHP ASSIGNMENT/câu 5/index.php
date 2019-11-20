@@ -5,7 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	
+	dfa
 	<?php 
 		$sum = 0;
 		for($i = 0 ; $i <= 50 ; $i++)
@@ -15,6 +15,6 @@
 		echo 'them moi'.$sum;
 		echo"daf";
 	 ?>
-	 
+	 them2
 </body>
 </html>
