@@ -12,7 +12,7 @@
 		{
 			$sum += $i;
 		}
-		echo 'tổng   dsafasfafdsa:'.$sum;
+		echo '   dsaasfafdsa:'.$sum;
 		echo"daf";
 	 ?>
 	 
