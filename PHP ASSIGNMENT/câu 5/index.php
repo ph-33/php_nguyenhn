@@ -5,7 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	anh 2
+	nhanh b1
 	<?php 
 		$sum = 0;
 		for($i = 0 ; $i <= 50 ; $i++)
@@ -15,9 +15,5 @@
 		echo 'them moi'.$sum;
 		echo 'day la master 2';
 	 ?>
-	 dfajf;lasjf
-	 them2fda
-	 fda
-	 dvfdsagit 
 </body>
 </html>
