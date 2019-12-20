@@ -5,19 +5,15 @@
 	<title>Document</title>
 </head>
 <body>
-	anh 2
+	nahnh b2
 	<?php 
 		$sum = 0;
 		for($i = 0 ; $i <= 50 ; $i++)
 		{
 			$sum += $i;
 		}
-		echo 'them moi'.$sum;
-		echo 'day la master 2';
+		echo 'b1'.$sum;
+		echo 'day la branch b2dev';
 	 ?>
-	 dfajf;lasjf
-	 them2fda
-	 fda
-	 dvfdsagit 
 </body>
 </html>
