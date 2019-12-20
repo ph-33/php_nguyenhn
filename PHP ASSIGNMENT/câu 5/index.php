@@ -5,7 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	nhanh featch 
+	nhanh featch sua local
 	<?php 
 		$sum = 0;
 		for($i = 0 ; $i <= 50 ; $i++)
