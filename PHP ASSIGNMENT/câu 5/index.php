@@ -5,7 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	nhanh b1 +
+	nhanh develop
 	<?php 
 		$sum = 0;
 		for($i = 0 ; $i <= 50 ; $i++)
