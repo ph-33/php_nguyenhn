@@ -5,7 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	nhanh de gia suw 1
+	nhanh featch +merge
 	<?php 
 		$sum = 0;
 		for($i = 0 ; $i <= 50 ; $i++)
