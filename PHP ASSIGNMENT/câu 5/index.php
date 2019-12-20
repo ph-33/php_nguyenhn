@@ -12,8 +12,8 @@
 		{
 			$sum += $i;
 		}
-		echo 'them moi'.$sum;
-		echo 'day la master 2';
+		echo 'b1'.$sum;
+		echo 'day la branch 1';
 	 ?>
 </body>
 </html>
