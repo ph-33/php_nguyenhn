@@ -6,7 +6,7 @@
 </head>
 <body>
 	nhanhf b1 vao day
-	<?php 
+	<?php
 		$sum = 0;
 		for($i = 0 ; $i <= 50 ; $i++)
 		{
