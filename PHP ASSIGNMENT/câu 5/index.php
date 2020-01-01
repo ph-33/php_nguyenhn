@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Documedsfsafnt</title>
 </head>
 <body>
 	nhanhf day l dsafafsd dajfl;a dfaksl;fj a;dfj
@@ -13,7 +13,7 @@
 			$sum += $i;
 		}
 		echo 'b adfafa'.$sum;
-		echo 'day  b1dev';
+		echo 'day dfsaffa b1dev';
 		eadjfa;l
 	 ?>
 </body>
