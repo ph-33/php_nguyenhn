@@ -5,18 +5,16 @@
 	<title>Document</title>
 </head>
 <body>
-dsafa;fja
-	nhanhf dadsjfal b1al this is b2
-	<?php 
+	nhanhf suawr lai b1 b2
+	<?php
 		$sum = 0;
 		for($i = 0 ; $i <= 50 ; $i++)
 		{
 			$sum += $i;
 		}
 		echo 'b1'.$sum;
-		echo 'day b1 la b2 branch b1dev';
+		echo 'day suar lai b1 h b1dev';
 		eadjfa;l
-    them b2
 	 ?>
 </body>
 </html>
