@@ -13,7 +13,7 @@
 			$sum += $i;
 		}
 		echo 'b1sdafafdas'.$sum;dfsafd dfsafasf
-		echo 'day asdfsuar day la b2 lai b1 h b1dev';
+		echo '';
 		eadjfa;l
 	 ?>
 </body>
