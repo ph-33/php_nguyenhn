@@ -5,7 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	nhanhf suawr lai b1 b2
+	nhanhf suawr lai b1 b2 them b1 vao day
 	<?php
 		$sum = 0;
 		for($i = 0 ; $i <= 50 ; $i++)
