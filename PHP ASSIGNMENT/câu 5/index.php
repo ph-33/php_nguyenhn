@@ -5,15 +5,15 @@
 	<title>Documedsfsafnt</title>
 </head>
 <body>
-	nhanhf day l dsafafsd dajfl;a dfaksl;fj a;dfj
+	nhanhf day laf b2 vadfsafo day dsafafsd
 	<?php
 		$sum = 0;
 		for($i = 0 ; $i <= 50 ; $i++)
 		{
 			$sum += $i;
 		}
-		echo 'b adfafa'.$sum;
-		echo 'day dfsaffa b1dev';
+		echo 'b1sdafafdas'.$sum;dfsafd
+		echo 'day asdfsuar day la b2 lai b1 h b1dev';
 		eadjfa;l
 	 ?>
 </body>
